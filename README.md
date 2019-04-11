@@ -1,1 +1,1 @@
-#All Sorting Algorithms
+## All Sorting Algorithms
